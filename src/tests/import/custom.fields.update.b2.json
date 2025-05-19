@@ -1,0 +1,25 @@
+{
+  "units":[ 
+            {
+              "unit_id": 537,
+              "unit_title": "537-D06",
+              "tenants": [
+                  {
+                      "tenant_id": 9323,
+                      "resident_type": 1,
+                      "is_resident": 1,
+                      "first_name": "Jerry",
+                      "last_name": "Jerry",
+                      "email": "jerry@vagrant.test",
+                      "cell_phone": "",
+                      "mailing_address_1": "Jerry address",
+                      "mailing_address_2": "",
+                      "mailing_city": "Dedham",
+                      "mailing_state": "MA",
+                      "current_due": 0.0000,
+                      "past_due": 0.0000
+                  }
+                ]
+             }         
+           ]
+}

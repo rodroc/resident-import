@@ -1,0 +1,62 @@
+{
+    "units": [
+        {
+            "unit_id": 100,
+            "unit_title": "",
+            "tenants": [
+            {
+                "tenant_id": 100,
+                "resident_type": "H",
+                "first_name": "resident with",
+                "last_name": "no unit",
+                "email": "",
+                "cell_phone": "",
+                "mailing_address_1": "",
+                "mailing_address_2": "",
+                "mailing_city": "",
+                "mailing_state": "",
+                "current_due": 0.0000,
+                "past_due": 0.0000
+            }]
+        },
+        {
+            "unit_id": 111,
+            "unit_title": "buildnum-unitno",
+            "tenants": [
+            {
+                "tenant_id": 111,
+                "resident_type": "H",
+                "first_name": "111",
+                "last_name": "111",
+                "email": "",
+                "cell_phone": "",
+                "mailing_address_1": "",
+                "mailing_address_2": "",
+                "mailing_city": "",
+                "mailing_state": "",
+                "current_due": 0.0000,
+                "past_due": 0.0000
+            }]
+        },
+        {
+            "unit_id": 222,
+            "unit_title": "buildnum-unitno2",
+            "tenants": [
+            {
+                "tenant_id": 222,
+                "resident_type": "H",
+                "first_name": "john",
+                "last_name": "smith",
+                "email": "johnsmith@test.com",
+                "cell_phone": "",
+                "mailing_address_1": "",
+                "mailing_address_2": "",
+                "mailing_city": "",
+                "mailing_state": "",
+                "current_due": 0.0000,
+                "past_due": 0.0000
+            }]
+        }
+
+    ]
+}

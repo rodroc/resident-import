@@ -1,0 +1,27 @@
+{
+  "units":[ 
+            {
+              "unit_id": 537,
+              "unit_title": "537-D06",
+              "tenants": [
+                  {
+                      "tenant_id": 7895,
+                      "resident_type": 1,
+                      "is_resident": 1,
+                      "first_name": "Tom",
+                      "last_name": "Tom",
+                      "email": "tom@vagrant.test",
+                      "cell_phone": "",
+                      "mailing_address_1": "old M.Address 1",
+                      "mailing_address_2": "old M.Address 2",
+                      "mailing_city": "old City",
+                      "mailing_state": "old State",
+                      "mailing_postal": "old Postal code",
+                      "mailing_country": "old M.Country",
+                      "current_due": 0.0000,
+                      "past_due": 0.0000
+                  }
+                ]
+             }          
+           ]
+}
